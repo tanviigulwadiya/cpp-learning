@@ -1,2 +1,2 @@
 # cpp-learning
-my cpp learning journey and practice programs 
+My c++ learning journey and practice programs 
